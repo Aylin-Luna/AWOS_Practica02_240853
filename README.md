@@ -10,3 +10,5 @@ En la siguiente practica se realizaran pequeños ejerciocios de repaso pracompre
 <p align="justify">
 Esta practica sera desarrollada con estructura de ramales, parta el estudiante comience con la manipulacion correcta de rammas en el contexto de control de versiones y desarrollo colaborativo utilizando Giy y GitHub
 </p>
+
+### Tabla de ejercicios 
