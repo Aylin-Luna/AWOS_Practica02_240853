@@ -9,3 +9,11 @@ En la siguiente práctica se realizarán pequeños ejercicios de repaso para com
 
 <p align="justify">
 Esta práctica será desarrollada con estructura de ramales, para el estudiante comience con la manipulación correcta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y GitHub.</p>
+
+
+### Tabla de Ejercicios
+
+|No.|Descripción|Potenciador|Estatus|
+|---|---|---|---|
+|1.| Declaración de Varibles| 7 | ✅ Finalizada |
+|2.| Tipos de Datos| 7 | ✅ Finalizada |
